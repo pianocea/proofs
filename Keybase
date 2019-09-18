@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am pianocea on github.
+  * I am pianocea (https://keybase.io/pianocea) on keybase.
+  * I have a public key ASAv5v8ysHhthGZcnYkw3cpTSRfyysM6s1K9KSlC9r72wwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202fe6ff32b0786d84665c9d8930ddca534917f2cac33ab352bd292942f6bef6c30a",
+      "host": "keybase.io",
+      "kid": "01202fe6ff32b0786d84665c9d8930ddca534917f2cac33ab352bd292942f6bef6c30a",
+      "uid": "4ed885804a10e3070c227c6794ee4219",
+      "username": "pianocea"
+    },
+    "merkle_root": {
+      "ctime": 1568819340,
+      "hash": "469e82fcd8b736980808443ac8e79ef02ce05234015bd34b148819385d61a73a9fc10a24cb997c328c87d7a6425c46e7d6b550f3508a99c70986aee861b4277b",
+      "hash_meta": "38cb85aca231f7d3af8fe269077e01118de6db9d7069378f7d55f6ea729e8d46",
+      "seqno": 7565204
+    },
+    "service": {
+      "entropy": "guWEvjJdpTDhXX/1BtbXtYMH",
+      "name": "github",
+      "username": "pianocea"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568819353,
+  "expire_in": 504576000,
+  "prev": "c24577fd2236c99937e50c3250d419b9858c7afd84babcdee2a242ce8ae2c2df",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASAv5v8ysHhthGZcnYkw3cpTSRfyysM6s1K9KSlC9r72wwo](https://keybase.io/pianocea), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL+b/MrB4bYRmXJ2JMN3KU0kX8srDOrNSvSkpQva+9sMKp3BheWxvYWTESpcCBcQgwkV3/SI2yZk35QwyUNQZuYWMev2Eurze4qJCzoriwt/EIHfjlqr7CrWJWPSXj9jPE5b4rKeT8XJtMQdfOSEeWDKFAgHCo3NpZ8RAecNSKtPcZa8mIWmrvg9GxVBxjP2t72yt1YixbHbWa4aVtedD4ikjVbj+Z9XfWH8tDwcpr/rJ84pHjsBmYsE+BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH7WJ7O3cWIHz9YZHaw496c8BdJPqNwu78lRum/YeSSMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/pianocea
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id pianocea
+```
